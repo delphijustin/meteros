@@ -67,7 +67,7 @@ void serialEvent() {
   t = abs(t);
 }
 void setup() {
-calibrateThermistor(0.000219128356548026,0.00134945113677531);
+  //CALIBRATED_THERMISTOR_HERE
   pinMode(NEGITIVEV_PIN, INPUT);
   pinMode(BUTTON_SHIFT, INPUT_PULLUP);
   pinMode(BUTTON_MODE_UP, INPUT_PULLUP);
