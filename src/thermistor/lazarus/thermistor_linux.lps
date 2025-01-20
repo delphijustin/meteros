@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="thermistor_linux.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="105"/>
+        <CursorPos X="68" Y="117"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <Debugger>
+      <Backend Value="IDE"/>
+    </Debugger>
+    <JumpHistory HistoryIndex="14">
+      <Position>
+        <Filename Value="thermistor_linux.lpr"/>
+        <Caret Line="123" Column="12" TopLine="104"/>
+      </Position>
+      <Position>
+        <Filename Value="thermistor_linux.lpr"/>
+        <Caret Column="20"/>
+      </Position>
+      <Position>
+        <Filename Value="thermistor_linux.lpr"/>
+        <Caret Line="121" TopLine="101"/>
+      </Position>
+      <Position>
+        <Filename Value="thermistor_linux.lpr"/>
+        <Caret Line="155" TopLine="115"/>
+      </Position>
+      <Position>
+        <Filename Value="thermistor_linux.lpr"/>
+        <Caret Line="9" Column="51"/>
+      </Position>
+      <Position>
+        <Filename Value="thermistor_linux.lpr"/>
+        <Caret Line="90" Column="43" TopLine="85"/>
+      </Position>
+      <Position>
+        <Filename Value="thermistor_linux.lpr"/>
+        <Caret Line="50"/>
+      </Position>
+      <Position>
+        <Filename Value="thermistor_linux.lpr"/>
+        <Caret Line="187" Column="23" TopLine="174"/>
+      </Position>
+      <Position>
+        <Filename Value="thermistor_linux.lpr"/>
+        <Caret Line="188" Column="9" TopLine="175"/>
+      </Position>
+      <Position>
+        <Filename Value="thermistor_linux.lpr"/>
+        <Caret Line="144" Column="23" TopLine="211"/>
+      </Position>
+      <Position>
+        <Filename Value="thermistor_linux.lpr"/>
+        <Caret Line="181" Column="37" TopLine="161"/>
+      </Position>
+      <Position>
+        <Filename Value="thermistor_linux.lpr"/>
+        <Caret Line="177" Column="70" TopLine="165"/>
+      </Position>
+      <Position>
+        <Filename Value="thermistor_linux.lpr"/>
+        <Caret Line="135" Column="5" TopLine="119"/>
+      </Position>
+      <Position>
+        <Filename Value="thermistor_linux.lpr"/>
+        <Caret Line="60" Column="40" TopLine="42"/>
+      </Position>
+      <Position>
+        <Filename Value="thermistor_linux.lpr"/>
+        <Caret Line="114" Column="63" TopLine="102"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
