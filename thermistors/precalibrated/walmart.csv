@@ -1,0 +1,3 @@
+resistance,temperature,Thermistor link https://www.walmart.com/ip/10K-NTC-Thermistor-Probe-7-9-Inch-Temperature-Sensor-for-Air-Conditioner/352312243
+10k,room,Use /unit=f with this file
+1613,147,Any data thats not under temperature/resistance column is a comment
